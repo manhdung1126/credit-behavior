@@ -1,0 +1,278 @@
+{
+  "repository": "hien13042006-lab/Ch-m-i-m-t-n-d-ng",
+  "commit": "d9f69ab0f8cf7feac887fb4d8d518b0cc6637569",
+  "files": [
+    {
+      "path": "calibration_deciles_ab.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "defd8a13c4725b93a248644b6145ba94c82e5a92",
+      "size": 2518,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/defd8a13c4725b93a248644b6145ba94c82e5a92"
+    },
+    {
+      "path": "config_shared.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f2e58d85c25c7c62658965863e426c77bb3abaf",
+      "size": 1414,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/5f2e58d85c25c7c62658965863e426c77bb3abaf"
+    },
+    {
+      "path": "data_set/link.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7741a0197753a24373cfd74599d44910fa77e63d",
+      "size": 87,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/7741a0197753a24373cfd74599d44910fa77e63d"
+    },
+    {
+      "path": "eval_results/demo_customer_scorecards.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "943cb13dd203b5e7ba456d185f2bed3433a95d7e",
+      "size": 2991,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/943cb13dd203b5e7ba456d185f2bed3433a95d7e"
+    },
+    {
+      "path": "eval_results/grade_table_10_b.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91c2de0c46986940c29ad03acf26231d3f6557cf",
+      "size": 1057,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/91c2de0c46986940c29ad03acf26231d3f6557cf"
+    },
+    {
+      "path": "eval_results/grade_transition_matrix_t2.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16ad764002fad90c981b1994f5c3d757486cf848",
+      "size": 316,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/16ad764002fad90c981b1994f5c3d757486cf848"
+    },
+    {
+      "path": "eval_results/grade_transition_matrix_t3.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d74e9bd12a48fc98566890cae554552ffb46091",
+      "size": 293,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/7d74e9bd12a48fc98566890cae554552ffb46091"
+    },
+    {
+      "path": "eval_results/grade_transition_matrix_t4.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa6006eeaa13e72d5b4b961ee1a79c84814ad85a",
+      "size": 290,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/fa6006eeaa13e72d5b4b961ee1a79c84814ad85a"
+    },
+    {
+      "path": "eval_results/grade_transition_summary_t2.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a99e6596cd7c48a12f63c48bb65a5afed918ad7",
+      "size": 240,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/6a99e6596cd7c48a12f63c48bb65a5afed918ad7"
+    },
+    {
+      "path": "eval_results/grade_transition_summary_t3.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea7bb148734ee94efc95082000797b5b910db30e",
+      "size": 236,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/ea7bb148734ee94efc95082000797b5b910db30e"
+    },
+    {
+      "path": "eval_results/grade_transition_summary_t4.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc87c3728432b55d082ff0531e72961e8e7c9f1d",
+      "size": 224,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/cc87c3728432b55d082ff0531e72961e8e7c9f1d"
+    },
+    {
+      "path": "eval_results/independent_auc_check.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32d16337832c02a315e9a989fd931ca5d56dce3c",
+      "size": 160,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/32d16337832c02a315e9a989fd931ca5d56dce3c"
+    },
+    {
+      "path": "eval_results/integration_checks_part_c.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd9da2d4be98f0fa0601a21ff6adbdd45c090101",
+      "size": 866,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/bd9da2d4be98f0fa0601a21ff6adbdd45c090101"
+    },
+    {
+      "path": "eval_results/metrics_auc_bootstrap.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c0eed964d8b73dcf532f4193ccf61cf7bed9da13",
+      "size": 6703,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/c0eed964d8b73dcf532f4193ccf61cf7bed9da13"
+    },
+    {
+      "path": "eval_results/policy_evaluation.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "970fd282d530ffc82f81143ce11f994bc4670fdb",
+      "size": 4380,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/970fd282d530ffc82f81143ce11f994bc4670fdb"
+    },
+    {
+      "path": "eval_results/rehab_and_cold_calibration.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cee14c71a62c0006a4b21d9787bdde5afea1470",
+      "size": 1232,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/3cee14c71a62c0006a4b21d9787bdde5afea1470"
+    },
+    {
+      "path": "eval_results/report_number_traceability.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ae5005dcde877e0b795cb4808725d832c493cd7",
+      "size": 864,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/7ae5005dcde877e0b795cb4808725d832c493cd7"
+    },
+    {
+      "path": "eval_results/shap_group_points_by_cohort.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc029bca06b143cdb26d2b7f1a98ca4756f5d0e7",
+      "size": 1127,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/cc029bca06b143cdb26d2b7f1a98ca4756f5d0e7"
+    },
+    {
+      "path": "eval_results/shap_sample_customer_ids.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8192bc11ec5024d5bd1d3bedb7424e6580ed992",
+      "size": 48787,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/d8192bc11ec5024d5bd1d3bedb7424e6580ed992"
+    },
+    {
+      "path": "eval_results/waterfall_never_bad_clean_history.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9bd5f2966b3dda374cfeab6fb014ea8a7015ad55",
+      "size": 337,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/9bd5f2966b3dda374cfeab6fb014ea8a7015ad55"
+    },
+    {
+      "path": "eval_results/waterfall_rehabilitated_unchanged.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7106ef58a006ef9bb966d3d8c63e155d7725648",
+      "size": 338,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/f7106ef58a006ef9bb966d3d8c63e155d7725648"
+    },
+    {
+      "path": "eval_results/waterfall_rehabilitated_upgraded.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "421854f76de1514802330d0a05174f9cb68a3b41",
+      "size": 336,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/421854f76de1514802330d0a05174f9cb68a3b41"
+    },
+    {
+      "path": "eval_results/waterfall_unrehabilitated_high_risk.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8cdc1a21013d0ec88926dbcd01ce6f61ecf7709f",
+      "size": 345,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/8cdc1a21013d0ec88926dbcd01ce6f61ecf7709f"
+    },
+    {
+      "path": "feature_group_mapping.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6be732d61717a95db6189de2a6e2ffbdfdc1b075",
+      "size": 23293,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/6be732d61717a95db6189de2a6e2ffbdfdc1b075"
+    },
+    {
+      "path": "feature_list_a.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d663ba15d321ac71151ad5ca15f9944e826ad57",
+      "size": 3432,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/1d663ba15d321ac71151ad5ca15f9944e826ad57"
+    },
+    {
+      "path": "feature_list_b.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36ae7ef230c6a3750f336a665f00bff9b34e32c1",
+      "size": 4335,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/36ae7ef230c6a3750f336a665f00bff9b34e32c1"
+    },
+    {
+      "path": "fold_seed_auc_report.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1faf35e8bf7c6f552a4177fe4bdc886452a3d867",
+      "size": 1322,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/1faf35e8bf7c6f552a4177fe4bdc886452a3d867"
+    },
+    {
+      "path": "folds.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4019e30cbd76fe8e64627a28bd6cdbf5573c447",
+      "size": 2767615,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/f4019e30cbd76fe8e64627a28bd6cdbf5573c447"
+    },
+    {
+      "path": "frozen_cohort_labels_N12.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4da788fc901c30675f19f542d166f691f3ce0003",
+      "size": 16605148,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/4da788fc901c30675f19f542d166f691f3ce0003"
+    },
+    {
+      "path": "monotone_constraints.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ba0b19292cadc2c6045e7ede2b7db4dbaa37cd2",
+      "size": 332,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/6ba0b19292cadc2c6045e7ede2b7db4dbaa37cd2"
+    },
+    {
+      "path": "oof_predictions.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2eac924cbf811052b79175089c275c5114f61b94",
+      "size": 22222630,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/2eac924cbf811052b79175089c275c5114f61b94"
+    },
+    {
+      "path": "scored_customers.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aee438c2b051b34a186f61d1fdb74e0fd7bf193e",
+      "size": 20225463,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/aee438c2b051b34a186f61d1fdb74e0fd7bf193e"
+    },
+    {
+      "path": "scoring_params.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d60b00a05c71f8b3eec810314880c84ca64335f",
+      "size": 1377,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/5d60b00a05c71f8b3eec810314880c84ca64335f"
+    },
+    {
+      "path": "shap_points_by_group.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebec191099294672702340ea2c0864c9af476e41",
+      "size": 859683,
+      "url": "https://api.github.com/repos/hien13042006-lab/Ch-m-i-m-t-n-d-ng/git/blobs/ebec191099294672702340ea2c0864c9af476e41"
+    }
+  ]
+}
